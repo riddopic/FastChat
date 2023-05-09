@@ -1,0 +1,10 @@
+.*
+*.template
+*.yaml
+*.yml
+
+*.md
+*.png
+!BULLETIN.md
+models
+llama-13b
